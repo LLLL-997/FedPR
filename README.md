@@ -1,13 +1,11 @@
 # FedPR
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Problem & Challenges](#problem--challenges)
 - [Proposed Method: FedPR](#proposed-method-fedpr)
 - [Key Features](#key-features)
 - [Experimental Results](#experimental-results)
-- [License](#license)
 
 ## Introduction
 
